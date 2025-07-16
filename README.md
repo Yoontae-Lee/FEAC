@@ -1,4 +1,4 @@
-### **FEAC: Federated Learning with Error Accumulation and Compensation for Signed Gradient Over-the-Air Aggregation** [📄 PDF](./FEAC_paper.pdf) | [📘 BEng_Final_Report.pdf](https://github.com/user-attachments/files/21263862/BEng_Final_Report.pdf)
+### **FEAC: Federated Learning with Error Accumulation and Compensation for Signed Gradient Over-the-Air Aggregation** [📄 FEAC.pdf](https://github.com/user-attachments/files/21263862/BEng_Final_Report.pdf)
 
 
 Federated learning (FL) has recently gained significant attention in machine learning due to its decentralised approach enabling parallelised computation across multiple edge devices while aggregating model updates at a parameter server.
